@@ -1,0 +1,15 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\Lin\Desktop\HW\計概\HW\HW6_E24094766\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(51,3): error C3861: 'random': 找不到識別項
+C:\Users\Lin\Desktop\HW\計概\HW\HW6_E24094766\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(55,3): error C3861: 'taken_card': 找不到識別項
+C:\Users\Lin\Desktop\HW\計概\HW\HW6_E24094766\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(73,4): error C3861: 'random': 找不到識別項
+C:\Users\Lin\Desktop\HW\計概\HW\HW6_E24094766\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(77,4): error C3861: 'taken_card': 找不到識別項
+C:\Users\Lin\Desktop\HW\計概\HW\HW6_E24094766\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(80,7): error C2374: 'o': 重複定義; 多個初始設定
+C:\Users\Lin\Desktop\HW\計概\HW\HW6_E24094766\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(70): message : 請參閱 'o' 的宣告
+C:\Users\Lin\Desktop\HW\計概\HW\HW6_E24094766\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(83,4): error C3861: 'random': 找不到識別項
+C:\Users\Lin\Desktop\HW\計概\HW\HW6_E24094766\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(87,4): error C3861: 'taken_card': 找不到識別項
+C:\Users\Lin\Desktop\HW\計概\HW\HW6_E24094766\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(90,7): error C2374: 'o': 重複定義; 多個初始設定
+C:\Users\Lin\Desktop\HW\計概\HW\HW6_E24094766\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(70): message : 請參閱 'o' 的宣告
+C:\Users\Lin\Desktop\HW\計概\HW\HW6_E24094766\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(93,4): error C3861: 'random': 找不到識別項
+C:\Users\Lin\Desktop\HW\計概\HW\HW6_E24094766\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(97,4): error C3861: 'taken_card': 找不到識別項
+C:\Users\Lin\Desktop\HW\計概\HW\HW6_E24094766\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(101,1): error C2143: 語法錯誤: 遺漏 ';' (在 '}' 之前)
+C:\Users\Lin\Desktop\HW\計概\HW\HW6_E24094766\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(114,8): error C2082: 型式參數 'i' 重複定義

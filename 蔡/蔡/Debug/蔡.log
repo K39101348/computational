@@ -1,0 +1,7 @@
+﻿  蔡.cpp
+C:\Users\Lin\Desktop\HW\計概\HW\蔡\蔡\蔡.cpp(57,12): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+C:\Users\Lin\Desktop\HW\計概\HW\蔡\蔡\蔡.cpp(541,11): warning C4553: '==': 未使用運算式結果; 您是否想要 '='?
+C:\Users\Lin\Desktop\HW\計概\HW\蔡\蔡\蔡.cpp(601,12): warning C4553: '==': 未使用運算式結果; 您是否想要 '='?
+C:\Users\Lin\Desktop\HW\計概\HW\蔡\蔡\蔡.cpp(661,11): warning C4553: '==': 未使用運算式結果; 您是否想要 '='?
+C:\Users\Lin\Desktop\HW\計概\HW\蔡\蔡\蔡.cpp(721,11): warning C4553: '==': 未使用運算式結果; 您是否想要 '='?
+  蔡.vcxproj -> C:\Users\Lin\Desktop\HW\計概\HW\蔡\Debug\蔡.exe

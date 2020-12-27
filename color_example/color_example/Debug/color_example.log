@@ -1,0 +1,3 @@
+﻿  color_example.cpp
+C:\Users\Lin\Desktop\HW\計概\HW\color_example\color_example\color_example.cpp(45,14): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+  color_example.vcxproj -> C:\Users\Lin\Desktop\HW\計概\HW\color_example\Debug\color_example.exe

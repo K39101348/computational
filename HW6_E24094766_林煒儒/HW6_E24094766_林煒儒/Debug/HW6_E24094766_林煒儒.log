@@ -1,0 +1,7 @@
+﻿  HW6_E24094766_林煒儒.cpp
+C:\Users\Lin\Desktop\HW\計概\HW\HW6_E24094766_林煒儒\HW6_E24094766_林煒儒\HW6_E24094766_林煒儒.cpp(56,12): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+C:\Users\Lin\Desktop\HW\計概\HW\HW6_E24094766_林煒儒\HW6_E24094766_林煒儒\HW6_E24094766_林煒儒.cpp(540,11): warning C4553: '==': 未使用運算式結果; 您是否想要 '='?
+C:\Users\Lin\Desktop\HW\計概\HW\HW6_E24094766_林煒儒\HW6_E24094766_林煒儒\HW6_E24094766_林煒儒.cpp(600,12): warning C4553: '==': 未使用運算式結果; 您是否想要 '='?
+C:\Users\Lin\Desktop\HW\計概\HW\HW6_E24094766_林煒儒\HW6_E24094766_林煒儒\HW6_E24094766_林煒儒.cpp(660,11): warning C4553: '==': 未使用運算式結果; 您是否想要 '='?
+C:\Users\Lin\Desktop\HW\計概\HW\HW6_E24094766_林煒儒\HW6_E24094766_林煒儒\HW6_E24094766_林煒儒.cpp(720,11): warning C4553: '==': 未使用運算式結果; 您是否想要 '='?
+  HW6_E24094766_林煒儒.vcxproj -> C:\Users\Lin\Desktop\HW\計概\HW\HW6_E24094766_林煒儒\Debug\HW6_E24094766_林煒儒.exe

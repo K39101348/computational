@@ -1,0 +1,2 @@
+﻿  Driver.cpp
+C:\Users\Lin\Desktop\MidtermFile\MidtermFile\Driver.cpp(13,10): fatal error C1083: 無法開啟包含檔案: 'Strategy.h': No such file or directory

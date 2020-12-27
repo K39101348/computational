@@ -1,0 +1,7 @@
+﻿  HW10_E24094766.cpp
+C:\Users\Lin\Desktop\HW\計概\HW\HW10_E24094766\HW10_E24094766\HW10_E24094766.cpp(24,20): warning C4018: '<': signed/unsigned 不相符
+C:\Users\Lin\Desktop\HW\計概\HW\HW10_E24094766\HW10_E24094766\HW10_E24094766.cpp(48,21): warning C4018: '<=': signed/unsigned 不相符
+C:\Users\Lin\Desktop\HW\計概\HW\HW10_E24094766\HW10_E24094766\HW10_E24094766.cpp(50,22): warning C4018: '<=': signed/unsigned 不相符
+C:\Users\Lin\Desktop\HW\計概\HW\HW10_E24094766\HW10_E24094766\HW10_E24094766.cpp(77,21): warning C4018: '<': signed/unsigned 不相符
+C:\Users\Lin\Desktop\HW\計概\HW\HW10_E24094766\HW10_E24094766\HW10_E24094766.cpp(79,22): warning C4018: '<': signed/unsigned 不相符
+  HW10_E24094766.vcxproj -> C:\Users\Lin\Desktop\HW\計概\HW\HW10_E24094766\Debug\HW10_E24094766.exe

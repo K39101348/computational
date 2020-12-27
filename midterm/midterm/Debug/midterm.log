@@ -1,0 +1,7 @@
+﻿  Driver.cpp
+C:\Users\Lin\Desktop\MidtermFile\MidtermFile\Strategy.h(174,38): warning C4244: '=': 將 '_Ty' 轉換為 'int'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Ty=double
+          ]
+  midterm.vcxproj -> C:\Users\Lin\Desktop\HW\計概\HW\midterm\Debug\midterm.exe
